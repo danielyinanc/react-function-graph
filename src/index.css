@@ -1,0 +1,9 @@
+input[type=text] {
+    box-sizing: border-box;
+    border: 1px solid blue;
+}
+
+input[type=submit] {
+    box-sizing: border-box;
+    border: 1px solid blue;
+}
